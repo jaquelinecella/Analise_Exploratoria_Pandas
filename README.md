@@ -10,10 +10,11 @@
 # Como fazer download do Projeto
 
   Uma das opções para realizar o download do projeto é com o Visual Studio Code através das etapas abaixo:
-  1)Acessar o repositório que se deseja clonar, clicar em "code" e copiar link do projeto;
-  2)Abrir o Visual Studio Code e clicar em "open folder" e escolher uma pasta onde o projeto será salvo;
-  3)Clicar em "terminal", digitar "git clone" e ao lado colar o link do projeto e enter;
-  4)Clicar nos arquivos que apareceram na barra lateral para ter acesso ao projeto.
+    1)Acessar o repositório que se deseja clonar, clicar em "Code" e copiar link do projeto;
+    2)Abrir o Visual Studio Code e clicar em "open folder" e escolher uma pasta onde o projeto será salvo;
+    3)Clicar em "terminal", digitar "git clone" e ao lado colar o link do projeto e enter;
+    4)Clicar nos arquivos que apareceram na barra lateral para ter acesso ao projeto.
+
 
 
 
