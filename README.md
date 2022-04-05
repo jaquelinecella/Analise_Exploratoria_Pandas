@@ -5,9 +5,15 @@
     
 # Exemplos de aplicação
  
- A análise explorátoria realizada neste projeto pode ser aplicada em diversos áreas de conhecimento, entre as quais pode-se citar: vendas(análise faturamento, custos, produtividade), logística(estoque, tempo de percurso, produtividade), financeira(produtos,lucratividade), entre outras áreas. Na verdade, qualquer área que tenha um fluxo de dados pode realizar uma análise exploratória.
+  A análise explorátoria realizada neste projeto pode ser aplicada em diversos áreas de conhecimento, entre as quais pode-se citar: vendas(análise faturamento, custos, produtividade), logística(estoque, tempo de percurso, produtividade), financeira(produtos,lucratividade), entre outras áreas. Na verdade, qualquer área que tenha um fluxo de dados pode realizar uma análise exploratória.
 
 # Como fazer download do Projeto
+
+  Uma das opções para realizar o download do projeto é com o Visual Studio Code através das etapas abaixo:
+  1)Acessar o repositório que se deseja clonar, clicar em "code" e copiar link do projeto;
+  2)Abrir o Visual Studio Code e clicar em "open folder" e escolher uma pasta onde o projeto será salvo;
+  3)Clicar em "terminal", digitar "git clone" e ao lado colar o link do projeto e enter;
+  4)Clicar nos arquivos que apareceram na barra lateral para ter acesso ao projeto.
 
 
 
