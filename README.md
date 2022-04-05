@@ -20,8 +20,8 @@ O presente Projeto tem por objetivo realizar uma Análise Exploratória de dados
 # Autor
 
 Jaqueline Cella
-Linkedin- @jaqueline-cella
-Github- @jaquelinecella
+* Linkedin- @jaqueline-cella
+* Github- @jaquelinecella
 
 
 
