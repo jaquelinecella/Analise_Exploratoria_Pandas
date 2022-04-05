@@ -16,6 +16,12 @@ O presente Projeto tem por objetivo realizar uma Análise Exploratória de dados
     2)Abrir o Visual Studio Code e clicar em "open folder" e escolher uma pasta onde o projeto será salvo;
     3)Clicar em "terminal", digitar "git clone" e ao lado colar o link do projeto e enter;
     4)Clicar nos arquivos que apareceram na barra lateral para ter acesso ao projeto.
+    
+# Autor
+
+Jaqueline Cella
+Linkedin- @jaqueline-cella
+Github- @jaquelinecella
 
 
 
