@@ -7,7 +7,7 @@ O presente Projeto tem por objetivo realizar uma Análise Exploratória de dados
     
 # Exemplos de aplicação
  
-  A análise explorátoria realizada neste projeto pode ser aplicada em diversos áreas de conhecimento, entre as quais pode-se citar: vendas(análise faturamento, custos, produtividade), logística(estoque, tempo de percurso, produtividade), financeira(produtos,lucratividade), entre outras áreas.
+  A análise explorátoria realizada neste projeto pode ser aplicada em diversas áreas de conhecimento, entre as quais pode-se citar: vendas(análise do faturamento, custos, produtividade), logística(estoque, tempo de percurso, produtividade), financeira(produtos,lucratividade, produtividade), agricultura(produtividade, qualidade do grão) entre outras áreas.
 
 # Como fazer download do Projeto
 
