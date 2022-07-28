@@ -8,10 +8,20 @@ O presente Projeto tem por objetivo realizar uma Análise Exploratória de dados
 # Exemplos de resultados extraídos da análise realizada
 
 Heat Map do município de origem dos bolsistas:
-
+<div align=<"center"> 
+ <image src= "https://user-images.githubusercontent.com/93526685/178126566-3636e4a6-2741-4cdb-a9fe-af61b5842d91.jpeg" width="500px" />
+ </div>    
+  
  <div align=<"center"> 
- <image src= "https://user-images.githubusercontent.com/93526685/178126566-3636e4a6-2741-4cdb-a9fe-af61b5842d91.jpeg" width="300px" />
- </div>   
+ <image src= "https://user-images.githubusercontent.com/93526685/181393861-4370ae73-bbe3-4dc7-bc05-2dac7d0f99d1.png" width="600px" />
+ </div> 
+ 
+ <div align=<"center"> 
+ <image src= "https://user-images.githubusercontent.com/93526685/181394401-d8f76216-5939-471f-a00f-f02c476b1f25.png" width="600px" />
+ </div> 
+ 
+ 
+ 
         
 # Aplicações de Análise Exploratória
  
